@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Evann Watson-Evans
 
-<!--
-**evannwatsonevans/evannwatsonevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my TripleTen final project.
 - 🌱 I’m currently learning data cleaning, business metrics and data visualization.
